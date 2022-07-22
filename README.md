@@ -22,8 +22,7 @@ Skills: C++ / C / HTML / JAVA /
 
 <h1> Connect with me: </h1>
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Sheetanshuk)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](www.linkedin.com/in/sheetanshuk)   
-
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Sheetanshuk)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](www.linkedin.com/in/sheetanshuk)   [<img src='https://upload.wikimedia.org/wikipedia/commons/2/28/Instagram_logo.png' alt='Instagram' height='40'>](https://www.instagram.com/sk_marv1e/)
 
 <br><h1>📈 Github Repo Stats</h1>
 <div style="display:flex;">
