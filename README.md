@@ -16,8 +16,6 @@ Skills: C++ / C / HTML / JAVA / JsonDB
  <a><img height="48" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/bootstrap.svg" alt="BootStrap"></a>
  <a><img height="48" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/javascript.svg" alt="JavaScript"></a>
  <a><img height="48" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/postgresql.svg" alt="PostgreSQL"></a>
- <a><img height="48" src="https://www.nicepng.com/png/detail/249-2496088_web-development-web-development-vector-icon-png.png" alt="Web Development"></a>
- </div> 
 
 <h1> Connect with me: </h1>
 
