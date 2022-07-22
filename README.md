@@ -1,6 +1,6 @@
 <h1> Hi there 👋, I am Sheetanshu Khanvilkar</h1>
 
-Skills: C++ / C / HTML / JAVA /
+Skills: C++ / C / HTML / JAVA / JsonDB
 
 - 🔭 I’m currently finding internship.
 - 🌱 I’m currently learning Java and DB.
